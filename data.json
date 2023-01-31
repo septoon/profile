@@ -1,0 +1,39 @@
+{
+  "name": "septoon",
+  "tg": "https://t.me/septoon",
+  "avatar": "https://avatars.mds.yandex.net/get-yapic/65952/yHfhhrrB6PnMpZxz5jQlo2Xsln4-1/islands-200",
+  "links": [
+    {
+      "title": "Github",
+      "href": "https://github.com/",
+      "image": "https://avatars.mds.yandex.net/get-yapic/65952/yHfhhrrB6PnMpZxz5jQlo2Xsln4-1/islands-200"
+    },
+    {
+      "title": "Vercel",
+      "href": "https://vercel.com/",
+      "image": "https://avatars.mds.yandex.net/get-yapic/65952/yHfhhrrB6PnMpZxz5jQlo2Xsln4-1/islands-200"
+    },
+    {
+      "title": "LinkedIn",
+      "href": "https://linkedin.com/",
+      "image": "https://avatars.mds.yandex.net/get-yapic/65952/yHfhhrrB6PnMpZxz5jQlo2Xsln4-1/islands-200"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Telegram",
+      "href": "https://telegram.me/",
+      "image": "https://"
+    },
+    {
+      "title": "Instagram",
+      "href": "https://instagram.com/",
+      "image": "https://"
+    },
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/",
+      "image": "https://"
+    }
+  ]
+}
